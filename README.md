@@ -16,7 +16,5 @@ This is a simple web application that provides movie recommendations based on us
 - Data obtained from [The Movie Database (TMDb)](https://www.themoviedb.org/) using their API.
 - Machine learning algorithms for movie recommendation.
 
-## Setup
 
-1. Clone the repository:
 

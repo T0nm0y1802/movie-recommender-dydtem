@@ -3,3 +3,5 @@ numpy
 streamlit
 scikit-learn
 nltk
+flask
+
